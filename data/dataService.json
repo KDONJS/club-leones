@@ -1,0 +1,38 @@
+[
+    {
+        "id": "1",
+        "name": "Deportes",
+        "desc": "boxeo,kickboxing,etc",
+        "icon": "fal fa-boxing-glove"
+    },
+    {
+        "id": "2",
+        "name": "Medicina",
+        "desc": "Salud y medicina",
+        "icon": "fal fa-stethoscope"
+    },
+    {
+        "id": "3",
+        "name": "Tienda",
+        "desc": "Las mejores ofertas",
+        "icon": "fal fa-tshirt"
+    },
+    {
+        "id": "4",
+        "name": "Preparación física",
+        "desc": "Musculación,hipertrófia,etc",
+        "icon": "fal fa-dumbbell"
+    },
+    {
+        "id": "5",
+        "name": "Psicología",
+        "desc": "Consultas, consejos, etc",
+        "icon": "fal fa-head-side-brain"
+    },
+    {
+        "id" : "6",
+        "name" : "Nutrición",
+        "desc" : "Plan de alimentación, etc",
+        "icon" : "fal fa-salad"
+    }
+]

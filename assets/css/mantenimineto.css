@@ -1,0 +1,21 @@
+.card-custom{
+    margin-top: 10%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.text-white{
+    opacity: 0.5;
+    font-size: 150px;
+}
+
+@media (max-width: 768px) {
+    .text-white{
+        font-size: 40px;
+    }
+    .card-custom{
+        margin-top: 50%;
+    }
+}
